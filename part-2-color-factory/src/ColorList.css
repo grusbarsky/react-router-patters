@@ -1,0 +1,27 @@
+.ColorList {
+  text-align: center;
+}
+
+.ColorList-header {
+  background-color: rgb(0, 0, 0);
+  height: 150px;
+  padding: 25px;
+  color: white;
+}
+
+.ColorList-header a {
+  color: white;
+}
+
+.ColorList-title {
+  font-size: 20px;
+}
+
+.ColorList-intro {
+  font-size: large;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
